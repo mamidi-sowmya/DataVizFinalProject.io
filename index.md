@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <strong> WEEKLY VIZ SUBMISSION </strong>
